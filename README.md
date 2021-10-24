@@ -1,1 +1,1 @@
-PathPlanning Exercises done in The ConstructSim ROS Path Planning Course
+Contains the exercises done in The ConstructSim ROS Path Planning Course
