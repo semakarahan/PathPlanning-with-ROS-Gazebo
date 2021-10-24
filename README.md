@@ -1,1 +1,1 @@
-# PathPlanning Exercises done in ConstructSim Path Planning Course
+PathPlanning Exercises done in ConstructSim Path Planning Course
