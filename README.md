@@ -1,1 +1,1 @@
-Contains the exercises done in The ConstructSim ROS Path Planning Course
+Contains the studies done in The Construct ROS Path Planning Course
