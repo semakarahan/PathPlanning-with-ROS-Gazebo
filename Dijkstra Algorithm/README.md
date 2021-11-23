@@ -4,6 +4,8 @@ Author: Roberto Zegers R.
 Date: November 2020  
 License: BSD-3-Clause  
 
+Edited by Sema Karahan to fulfill project tasks
+
 ## Decription
 
 The unit2_pp package, for the path planning course.  
